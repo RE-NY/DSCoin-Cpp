@@ -1,5 +1,5 @@
-#ifndef SHA256_HPP
-#define SHA256_H
+#ifndef CRF_HPP
+#define CRF_HPP
 
 using namespace std; 
 #include<string>
@@ -37,7 +37,7 @@ class CRF : public SHA256 {
 
 
 
-#endif // SHA256_H
+#endif // CRF_HPP
 
 #ifdef CRF_IMPLEMENTATION
 
